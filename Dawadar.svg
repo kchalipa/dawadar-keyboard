@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="artboard_clip_path">
+      <path d="M 58.5 63 L 364.5 63 L 364.5 207 L 58.5 207 Z"/>
+    </clipPath>
+  </defs>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 1.292; fill: rgb(247, 247, 247);" d="M 70.24 134.264 C 62.759 135.307 63.02 146.381 56.684 155.859 C 48.52 168.073 44.11 187.236 40.571 205.253 C 27.6 271.307 49.437 328.828 72.323 361.663 L 429.482 363.227 C 458.701 321.526 489.073 211.565 427.385 135.88 L 70.24 134.264 Z"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 1.292; transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(217, 217, 217);" d="M 78.18 455.161 L 428.277 455.992 L 414.4 428.38 C 349.205 354.503 191.724 329.291 102.278 422.697 L 78.18 455.161 Z" transform="matrix(-1, 0, 0, -1, 0.000017, 0.000024)"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 1.292; fill: rgb(217, 217, 217);" d="M 74.802 136.666 L 424.902 137.497 L 411.026 109.886 C 345.831 36.008 188.35 10.796 98.903 104.202 L 74.802 136.666 Z"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 15.507; fill: rgba(162, 162, 162, 0);" cx="250.883" cy="250" rx="211.594" ry="211.594"/>
+  <g id="Graphic_392" transform="matrix(1.064743, 0, 0, 1.260823, -2.420213, 79.788841)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none" style="">
+    <path d="M 123.75 197.67857 C 91.44133 197.67857 65.25 168.68097 65.25 132.91071 C 65.25 97.14046 91.44133 68.14286 123.75 68.14286 L 123.75 197.67857" style="stroke-width: 3.33402px; fill: rgb(213, 213, 213);"/>
+    <path d="M 123.75 197.67857 C 91.44133 197.67857 65.25 168.68097 65.25 132.91071 C 65.25 97.14046 91.44133 68.14286 123.75 68.14286 L 123.75 197.67857" stroke="black" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 3.33402px; fill: rgb(213, 213, 213);"/>
+  </g>
+  <g transform="matrix(1.292247, 0, 0, 1.292247, -81.071678, -67.579002)">
+    <g id="Graphic_391" transform="matrix(0.975683, 0, 0, 0.975683, 40.086765, 114.039993)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+      <circle cx="157.17857" cy="176.78571" r="20.8928905275932" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+      <circle cx="157.17857" cy="176.78571" r="20.8928905275932" stroke="black" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+    </g>
+    <g id="Graphic_390" transform="matrix(0.975683, 0, 0, 0.975683, 40.086765, 114.039993)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+      <circle cx="157.17857" cy="89.03571" r="20.8928905275932" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+      <circle cx="157.17857" cy="89.03571" r="20.8928905275932" stroke="black" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+    </g>
+  </g>
+  <g id="Graphic_389" transform="matrix(1.260823, 0, 0, 1.260823, -31.854214, 79.788841)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <path d="M 190.60714 201.85714 L 190.60714 68.14286 L 215.67857 68.14286 L 244.92857 135 L 215.67857 201.85714 Z" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+    <path d="M 190.60714 201.85714 L 190.60714 68.14286 L 215.67857 68.14286 L 244.92857 135 L 215.67857 201.85714 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+  </g>
+  <g id="Graphic_387" transform="matrix(1.260823, 0, 0, 1.260823, -26.685225, 79.788841)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <path d="M 224.03571 201.85714 C 224.03571 201.85714 224.03571 201.85714 224.03571 201.85714 L 336.85714 201.85714 C 348.39595 201.85714 357.75 192.5031 357.75 180.96429 C 357.75 169.42548 348.39595 160.07143 336.85714 160.07143 L 246.49554 160.07143 L 228.21429 201.85714 Z" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+    <path d="M 228.214 201.857 L 228.414 201.844 L 336.857 201.857 C 348.396 201.857 357.75 192.503 357.75 180.964 C 357.75 169.425 348.396 160.071 336.857 160.071 L 246.496 160.071 L 228.214 201.857 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+  </g>
+  <g id="Graphic_386" transform="matrix(1.260823, 0, 0, 1.260823, -26.685225, 79.788841)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <path d="M 224.03571 68.14286 C 224.03571 68.14286 224.03571 68.14286 224.03571 68.14286 L 336.85714 68.14286 C 348.39595 68.14286 357.75 77.49691 357.75 89.03571 C 357.75 100.57452 348.39595 109.92857 336.85714 109.92857 L 246.49554 109.92857 L 228.21429 68.14286 Z" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+    <path d="M 228.413 68.595 L 228.268 68.445 L 336.857 68.143 C 348.396 68.143 357.75 77.497 357.75 89.036 C 357.75 100.575 348.396 109.929 336.857 109.929 L 246.496 109.929 L 228.413 68.595 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" style="stroke-width: 3.07477px; fill: rgb(213, 213, 213);"/>
+  </g>
+  <rect x="75.229" y="131.936" width="350.433" height="7.137" style="stroke: rgb(0, 0, 0); paint-order: fill; stroke-width: 10.338;"/>
+  <rect x="73.499" y="358.341" width="354.807" height="7.137" style="stroke: rgb(0, 0, 0); paint-order: fill; stroke-width: 10.338;"/>
+  <g id="Line_388" transform="matrix(1.971818, -1.561471, 1.653986, -1.243639, -402.208649, 756.948914)" clip-path="url(#artboard_clip_path)" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <path d="M 219.85714 135" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

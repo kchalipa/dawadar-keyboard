@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); paint-order: fill; stroke-width: 8px;" cx="254.691" cy="205.387" rx="160.342" ry="160.342"/>
+  <rect x="112.271" y="136.149" width="284.69" height="1.497" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 8px;"/>
+  <path style="stroke-width: 6.06395px; stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255);" transform="matrix(0.9494330286979674, 0, 0, 1.0294740200042722, -139.87995910644528, -200.99263000488278)" d="M 349.951 357.541 A 35.885 35.885 0 1 1 349.951 429.311 L 349.951 357.541 Z" bx:shape="crescent 349.951 393.426 35.885 180 0.5 1@355ccfd8"/>
+  <path style="stroke-width: 6.06395px; transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255);" transform="matrix(-0.949433, 0, 0, -1.029474, -245.040927, -189.39681)" d="M 349.951 357.541 A 35.885 35.885 0 1 1 349.951 429.311 L 349.951 357.541 Z" bx:shape="crescent 349.951 393.426 35.885 180 0.5 1@355ccfd8"/>
+  <rect x="112.595" y="272.294" width="284.69" height="1.497" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 8px;"/>
+  <ellipse style="stroke-width: 6px; stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255);" cx="165.943" cy="224.932" rx="16.537" ry="16.537"/>
+  <ellipse style="stroke-width: 6px; stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255);" cx="165.943" cy="183.79" rx="16.537" ry="16.537"/>
+  <polygon style="stroke-width: 6px; transform-origin: 309.262px 225.125px; stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255);" points="398.202 240.942 398.212 209.276 238.069 209.169 237.126 214.787 235.736 220.116 233.813 224.362 231.888 227.957 228.988 231.795 226.447 234.568 223.509 237.633 220.776 240.977"/>
+  <polygon style="stroke-width: 6px; transform-origin: 309.262px 182.245px; stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255);" points="398.203 166.429 398.213 198.094 238.067 198.202 237.126 192.583 235.736 187.255 233.812 183.008 231.888 179.414 228.987 175.575 226.446 172.803 223.509 169.737 220.775 166.393"/>
+</svg>
