@@ -3,7 +3,7 @@ A custom keyboard layout for transliterating Middle Eastern languages
 
 ## Basic intro
 
-<img src="HeaderIcon.png" style="width:100px; height:100px" align="left" alt="Header icon" />
+<img src="HeaderIcon.png" style="width:150px; height:150px" align="left" alt="Header icon" />
 
 This is a custom keyboard layout to make all the usual symbols and diacritics needed for scholarly transliteration of Arabic, Persian, Turkish, and other Islamicate languages easy to reach.  It allows for quick access to underdots (ṣ, ḍ, ḥ), overdots (ż, ġ), ayn and hamza (ʿ and ʾ), long-vowel macrons (ā, ī, ū), underlines (s̱, ḏ), carons (š, č), and breves above (ğ) and below (ḫ).  Common diacritics in European languages are accessible as well, as are reference markers (§, †, ¶), currencies ($, €, £), quotations (‘’ “” «»), and metrical symbols (⏑, ⏒, ⏔).  It's certainly not comprehensive, and if you need to tweak it to fit your needs, you're welcome to do so.
 
@@ -26,7 +26,10 @@ This layout was created with the program [Ukelele](https://software.sil.org/ukel
 ## Use
 The quickest way to familarize yourself with the layout is to click on the input menubar and then select the Keyboard Viewer.  This creates an overlay so you can see exactly what characters your keys will make.  The keyboard works like a normal QWERTY layout until you press and hold the Option key; then, this is what you'll see:
 
-![Keyboard layout when Option is pressed](OptionKeys.png){ width=75% } 
+<figure>
+<img src="OptionKeys.png" style="width:75.0%" alt="Keyboard layout when Option is pressed" />
+<figcaption aria-hidden="true">Keyboard layout when Option is pressed</figcaption>
+</figure>
 
 Here are the main features:
 
