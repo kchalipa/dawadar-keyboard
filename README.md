@@ -26,9 +26,7 @@ This layout was created with the program [Ukelele](https://software.sil.org/ukel
 ## Use
 The quickest way to familarize yourself with the layout is to click on the input menubar and then select the Keyboard Viewer.  This creates an overlay so you can see exactly what characters your keys will make.  The keyboard works like a normal QWERTY layout until you press and hold the Option key; then, this is what you'll see:
 
-<div style="text-align: center;">
-<img src="OptionKeys.png" style="width:80%" alt="Keyboard layout when Option is pressed" />
-</div>
+![Keyboard layout when Option is pressed](OptionKeys.png)
 
 Here are the main features:
 
