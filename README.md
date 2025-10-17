@@ -1,7 +1,10 @@
 # dawadar-keyboard
 A custom keyboard layout for transliterating Middle Eastern languages
 
-![Header icon](HeaderIcon.png)
+<figure>
+<img src="HeaderIcon.png" style="width:100px; height:100px" align="left" alt="Header icon" />
+<figcaption aria-hidden="true">Header icon</figcaption>
+</figure>
 
 ## Basic intro
 This is a custom keyboard layout to make all the usual symbols and diacritics needed for scholarly transliteration of Arabic, Persian, Turkish, and other Islamicate languages easy to reach.  It allows for quick access to underdots (ṣ, ḍ, ḥ), overdots (ż, ġ), ayn and hamza (ʿ and ʾ), long-vowel macrons (ā, ī, ū), underlines (s̱, ḏ), carons (š, č), and breves above (ğ) and below (ḫ).  Common diacritics in European languages are accessible as well, as are reference markers (§, †, ¶), currencies ($, €, £), quotations (‘’ “” «»), and metrical symbols (⏑, ⏒, ⏔).  It's certainly not comprehensive, and if you need to tweak it to fit your needs, you're welcome to do so.
@@ -25,16 +28,16 @@ This layout was created with the program [Ukelele](https://software.sil.org/ukel
 ## Use
 The quickest way to familarize yourself with the layout is to click on the input menubar and then select the Keyboard Viewer.  This creates an overlay so you can see exactly what characters your keys will make.  The keyboard works like a normal QWERTY layout until you press and hold the Option key; then, this is what you'll see:
 
-![Keyboard layout when Option is pressed](OptionKeys.png)
+![Keyboard layout when Option is pressed](OptionKeys.png){ width=75% } 
 
 Here are the main features:
 
-- The most common keys you'll need — the long vowels *ā ī ū*, the emphatic *ṣ ḍ ṭ ẓ ḥ*, and the ʿayn and hamza (Option+2 and Option+3, inspired by [Arabeezi](https://en.wikipedia.org/wiki/Arabic_chat_alphabet) conventions) — are right there and ready to go.
-- I also put a check mark because I like checking things off. ✓ 
+- The most common keys you'll need — the long vowels *ā ī ū*, the emphatic *ṣ ḍ ṭ ẓ ḥ*, and the *ʿayn* and *hamza* (`Option+2` and `Option+3`, inspired by [Arabeezi](https://en.wikipedia.org/wiki/Arabic_chat_alphabet) conventions) — are right there and ready to go.
+- I also added a check mark because I like checking things off. ✓ 
 - If you need additional overdots or underdots, you can press `Option+W` or `Option+X` to activate them (e.g. for ṡ, hit `Option+W`, `s`; this will also work to give you Turkish ı).
 - Other common diacritics, like the tilde (ñ), cedilla (ç), caron (š), diaeresis (ü), acute (é), grave (à), circumflex (û), and breve (ḫ), are available on the bottom and top rows.
-- Of particular note are the overstroke, stroke, and understroke in descending order with `Option+J`, `K`, and `L`; this will give you extra macrons (ē), through-strokes (ł), and understrokes (ẕ).
-- The inverted commas and guillemets are mapped over the square brackets [ ] and backslash \.  Hold `Shift` to double or reverse.
+- You'll find the overstroke, stroke, and understroke in descending order with `Option+J`, `K`, and `L`; this will give you extra macrons (ē), through-strokes (ł), and understrokes (ẕ).
+- The inverted commas and guillemets are mapped over the square brackets and backslash.  Hold `Shift` to double or reverse.
 - Metrical symbols (very niche, but I use 'em) are `Option+Shift+1`, `2`, and `3` for short (⏑), long (⏒), and overlong (⏔) respectively. (Regular long syllables are usually indicated with a simple en-dash, `Option+hyphen` on this layout.)
 
 Finally, if you hold `Option+Shift` and then hit the diacritic of your choice, it will be pasted on top of the previous character without forming a new glyph.  This is called an "adding" diacritic.  Most of the time they are not useful, insofar that I think it is generally better to use single-glyph Unicode characters whenever possible, since it tends to produce better typography (though perhaps the opposite could be true with certain fonts that don't support Unicode!).  But there is one case where I need this, and that is with the character *s̱*, sometimes used to transliterate ث.  This is not a Unicode character, so instead I first have to type `s`, then `Option+Shift+L` to add the understroke. 
