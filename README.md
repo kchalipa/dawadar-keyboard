@@ -1,5 +1,5 @@
 # dawadar-keyboard
-A keyboard designed for the transliteration of Arabic, Persian, Turkish, and other Islamicate languages on macOS.
+A custom keyboard layout for transliterating Middle Eastern languages
 
 ![Header icon](HeaderIcon.png)
 
