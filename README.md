@@ -34,7 +34,7 @@ Here are the main features:
 - If you need additional overdots or underdots, you can press `Option+W` or `Option+X` to activate them (e.g. for ṡ, hit `Option+W`, `s`; this will also work to give you Turkish ı).
 - Other common diacritics, like the tilde (ñ), cedilla (ç), caron (š), diaeresis (ü), acute (é), grave (à), circumflex (û), and breve (ḫ), are available on the bottom and top rows.
 - Of particular note are the overstroke, stroke, and understroke in descending order with `Option+J`, `K`, and `L`; this will give you extra macrons (ē), through-strokes (ł), and understrokes (ẕ).
-- The inverted commas and guillemets are mapped over the square brackets [ ] and backslash \. 
+- The inverted commas and guillemets are mapped over the square brackets [ ] and backslash \.  Hold `Shift` to double or reverse.
 - Metrical symbols (very niche, but I use 'em) are `Option+Shift+1`, `2`, and `3` for short (⏑), long (⏒), and overlong (⏔) respectively. (Regular long syllables are usually indicated with a simple en-dash, `Option+hyphen` on this layout.)
 
 Finally, if you hold `Option+Shift` and then hit the diacritic of your choice, it will be pasted on top of the previous character without forming a new glyph.  This is called an "adding" diacritic.  Most of the time they are not useful, insofar that I think it is generally better to use single-glyph Unicode characters whenever possible, since it tends to produce better typography (though perhaps the opposite could be true with certain fonts that don't support Unicode!).  But there is one case where I need this, and that is with the character *s̱*, sometimes used to transliterate ث.  This is not a Unicode character, so instead I first have to type `s`, then `Option+Shift+L` to add the understroke. 
